@@ -7,7 +7,5 @@
 - Para ejecutar el sistema, debes poner:
 
 - ``` npm install react ``` 
-- 
-sistena de registro dos
-
-sistema de registros 3
+- sistena de registro dos
+- sistema de registros 3
