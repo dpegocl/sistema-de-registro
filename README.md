@@ -10,4 +10,8 @@
 - sistena de registro dos
 - sistema de registros 3
 - ``` estoy trabajando con github desde mac de la oficina ```
+- 
+- Ordenando el trabajo: mas claro en el uso de git 
+- me gusta mas la version de escritorio que usar terminal y lineas de comando
+- entiendo las lineas de comando pero la version desktop facilita bastante
 
